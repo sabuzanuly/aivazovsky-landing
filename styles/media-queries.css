@@ -26,4 +26,24 @@
 	.about-description-en {
 		font-size: 14px;
 	}
+
+	.history-section {
+		padding: 50px 0 70px;
+	}
+
+	.history-photo {
+		height: 480px;
+	}
+
+	.history-description {
+		font-size: 14px;
+	}
+
+	.portfolio-picture {
+		margin: 50px 0 30px;
+	}
+
+	.portfolio-description {
+		font-size: 14px;
+	}
 }
