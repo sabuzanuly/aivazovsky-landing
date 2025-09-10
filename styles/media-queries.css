@@ -6,4 +6,17 @@
 	.mobile-navigation {
 		display: block;
 	}
+
+	.home {
+		text-align: left;
+	}
+
+	.home-title {
+		max-width: 250px;
+		font-size: 32px;
+	}
+
+	.home-description {
+		font-size: 14px;
+	}
 }
