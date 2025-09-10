@@ -19,4 +19,11 @@
 	.home-description {
 		font-size: 14px;
 	}
+
+	.about-subtitle-ru,
+	.about-subtitle-en,
+	.about-description-ru,
+	.about-description-en {
+		font-size: 14px;
+	}
 }
